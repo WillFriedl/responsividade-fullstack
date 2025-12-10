@@ -2,9 +2,9 @@
 
 Projeto desenvolvido como parte do **Desafio 04** do curso **Full Stack**, com o objetivo de construir 3 páginas responsivas Mobile First.
 
-[Travelgram](https://github.com/WillFriedl/travelgram-mobile-first)   [Página](https://willfriedl.github.io/travelgram-mobile-first/)
-[Portal de notícias](https://github.com/WillFriedl/portal-de-noticias-mobile-first)   [Página](https://willfriedl.github.io/portal-de-noticias-mobile-first/)
-[Formulário de matrícula](https://github.com/WillFriedl/formulario-de-matricula-mobile-first)   [Página](https://willfriedl.github.io/formulario-de-matricula-mobile-first/)
+[Travelgram](https://github.com/WillFriedl/travelgram-mobile-first)   [Página](https://willfriedl.github.io/travelgram-mobile-first/) <br>
+[Portal de notícias](https://github.com/WillFriedl/portal-de-noticias-mobile-first)   [Página](https://willfriedl.github.io/portal-de-noticias-mobile-first/) <br>
+[Formulário de matrícula](https://github.com/WillFriedl/formulario-de-matricula-mobile-first)   [Página](https://willfriedl.github.io/formulario-de-matricula-mobile-first/) <br>
 
 ## 🖥️ Tecnologias utilizadas
 
